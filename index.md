@@ -1,13 +1,11 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  title: Distribuidor Autorizado
+  text: Certificado Digital Serasa - CUPOM DESCONTO de 10%
   action: # action button is optional
-    label: Find Out More
-    url: '#about'
+    label: Acesse aqui
+    url: 'https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648'
 
 
 sections:
