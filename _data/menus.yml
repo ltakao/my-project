@@ -5,10 +5,10 @@
 header:
 - title: Sobre
   url: /#about
-- title: Services
-  url: /#services
-- title: Members
-  url: /#members
+- title: Dúvidas
+  url: /#doubt
+- title: Produtos
+  url: /#products
 - title: History
   url: /#timeline
 - title: Contacts

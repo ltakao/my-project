@@ -10,7 +10,7 @@ header:
 
 sections:
   - type: call-to-action.html
-    section_id: Sobre
+    section_id: about
     background_style: bg-primary
     title: Já possui um Certificado Digital?
     text: O Certificado Digital é a sua identidade ou da sua empresa no meio digital.
@@ -24,29 +24,34 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: doubt
     #background_style: bg-info
-    title: At Your Service
+    title: Dúvidas
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: O que é um e-CPF?
+        text: e-CPF é a Identidade Digital destinado a Pessoa Física. É o seu CPF em versão digital, que o identifica no meio eletrônico e permite realizar diversos serviços. Com o e-CPF você ganha em agilidade e facilidade de acesso, eliminando burocracia, custos e a necessidade de deslocamento para validar documentos. Lembre-se de que, devido a questões de segurança, o Certificado Digital é pessoal e intransferível.
+        icon: fa-lightbulb
+        url: https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648
+      - title: O que é um e-CNPJ?
+        text: e-CNPJ é a identidade Digital destinado a Pessoa Jurídica e atrelado ao CNPJ de uma empresa. Com o e-CNPJ é possível assinar documentos digitalmente, transmitir dados, realizar operações pela internet como Pessoa Jurídica e atender os compromissos Fiscais que toda empresa tem com o Governo, garantindo a integridade e a segurança das informações.
+        icon: fa-lightbulb
+        url: https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648
+      - title: O que é NF-e?
+        text: O NF-e é um certificado para emissão de notas fiscais, com várias opções de modelos, de acordo com a necessidade da sua empresa. Pode ser emitido para um funcionário, não necessitando ser o representante na Receita Federal, basta ter uma procuração que o autorize. Foi projetado para realizar grandes volumes de validações diárias. 
+        icon: fa-lightbulb
+        url: https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648        
+      - title: O que é um e-Jurídico?
+        text: O e-Jurídico é a identidade digital para o advogado inscrito na OAB. Com ele, é possível gerar, de qualquer lugar do mundo e com mais segurança e agilidade, assinaturas digitais com validade jurídica que garantem proteção às transações eletrônicas e a outros serviços via internet. 
+        icon: fa-lightbulb
+        url: https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648
+      - title: Qual a diferença do certificado A1 e o A3?
+        text: A principal diferença entre os certificados A1 e A3 é a geração e o armazenamento das chaves criptográficas (arquivo digital, token ou cartão). O certificado A1 tem seu arquivo gerado e armazenado no próprio computador pessoal do usuário, com validade de 1 ano. Já o A3 é disponibilizado em token ou cartão e pode ser utilizado em qualquer computador, com validade de 1 a 3 anos.
+        icon: fa-lightbulb
+        url: https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648
+      - title: Como você receberá o certificado?
+        text: A compra é feita via e-commerce (Serasa Experian) e por meio do nosso link você receberá 10% de desconto diretamente no Carrinho de Compras ou poderá aplicar o cupom CRLUC17648, caso não seja feito automaticamente. Em seguida, agende a emissão do certificado em um posto da rede Serasa. Ao final do processo de emissão você receberá o seu certificado digital, conforme a opção escolhida na compra (A1 ou A3).
+        icon: fa-lightbulb
+        url: https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
