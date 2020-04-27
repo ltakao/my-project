@@ -10,13 +10,17 @@ header:
 
 sections:
   - type: call-to-action.html
-    section_id: about
+    section_id: Sobre
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Já possui um Certificado Digital?
+    text: O Certificado Digital é a sua identidade ou da sua empresa no meio digital.
+     Com esse recurso você consegue acessar diversos serviços do governo na internet como o portal Empresa Simples,
+     e-CAC da Receita Federal, o eSocial, Conectividade Social, pode assinar documentos digitalmente com validade jurídica e
+     fazer o envio da nota fiscal eletrônica.
+     Adquira ou Renove seu Certificado Digital agora mesmo conosco, parceiro autorizado da Serasa Experian.
     actions:
-      - title: Get Started!
-        url: '#'
+      - title: Ganhe agora 10% de Desconto
+        url: 'https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648'
         class: btn-light
 
   - type: services.html
