@@ -17,7 +17,7 @@ sections:
      Com esse recurso você consegue acessar diversos serviços do governo na internet como o portal Empresa Simples,
      e-CAC da Receita Federal, o eSocial, Conectividade Social, pode assinar documentos digitalmente com validade jurídica e
      fazer o envio da nota fiscal eletrônica.
-     Adquira ou Renove seu Certificado Digital agora mesmo conosco, parceiro autorizado da Serasa Experian.
+     Adquira ou Renove seu Certificado Digital agora mesmo conosco, distribuidor autorizado da Serasa Experian.
     actions:
       - title: Ganhe agora 10% de Desconto
         url: 'https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648'
@@ -55,102 +55,50 @@ sections:
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
-    #section_id: portfolio
+    # section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: e-CPF
+        text: e-CPF | A1 - Arquivo
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: 1.png
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
+      - title: e-CNPJ
+        text: e-CNPJ | A1 - Arquivo
+        icon: 2.png
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
+      - title: NF-e
+        text: NF-e | A1 - Arquivo
+        icon: 3.png
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+      - title: e-CPF
+        text: e-CPF | A3 - Kit Leitora
+        icon: 4.png
+      - title: e-CNPJ
+        text: e-CNPJ | A3 - Kit Leitora
+        icon: 5.png
+      - title: NF-e
+        text: NF-e | A3 - Kit Leitora
+        icon: 6.png                
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: Aproveite o Desconto de 10%
     actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: Compre agora mesmo
+        url: https://serasa.certificadodigital.com.br/clube-do-revendedor/cupom/?cp=CRLUC17648
         class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
-
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Certificado Digital
+    image: assets/img/distribuidor-serasa.png
+    button: CRLUC17648
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Somos Distribuidor Autorizado e por esse motivo conseguimos um Desconto de 10% para você.
+      Copie e cupom abaixo e utilize na sua compra no site da Serasa Experian - Certificado Digital
     actions:
     - title: +1 (202) 555-014
       icon: fa-phone

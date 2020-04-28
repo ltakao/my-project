@@ -1,20 +1,23 @@
 <section id="{{ section.section_id }}" class="page-section {{ section.background_style }}">
   <div class="container">
     <div class="row justify-content-center">
+        <div class="col-lg-4 col-md-4 col-sm-6">
+          <img src="{{ section.image }}" alt="Distribuidor autorizado Serasa">
+          <br>
+          <br>
+        </div>
+    </div>
+    <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
         <h2 class="mt-0">{{ section.title }}</h2>
         <hr class="divider my-4">
         <p class="text-muted mb-5">{{ section.text }}</p>
-      </div>
+      </div>    
     </div>
     <div class="row justify-content-center">
-      {% for action in section.actions %}
-      {% assign fa = action.icon_type | default: "fas" %}
-      <div class="col ml-auto text-center">
-        <i class="{{ fa }} {{ action.icon }} fa-3x mb-3 text-muted"></i>
-        <a class="d-block" href="{{ action.url }}">{{ action.title }}</a>
+      <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+          <button href="#" class="btn btn-xl js-scroll-trigger {{ action.class | default: "btn-primary" }}">{{ section.button }}</button>         
       </div>
-      {% endfor %}
-    </div>
+    </div> 
   </div>
 </section>
